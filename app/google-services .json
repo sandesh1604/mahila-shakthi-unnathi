@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049951644888",
+    "project_id": "mahila-79ae6",
+    "storage_bucket": "mahila-79ae6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049951644888:android:9985c7fd4472abf9607bad",
+        "android_client_info": {
+          "package_name": "com.example.mahila"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCnaabQm2SNMorg_47IHdoE5jkQ1LneWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
